@@ -8,7 +8,7 @@ print("📂 Файлы:", os.listdir('.'))
 
 CONTACTS = """📞 Контакт:
 
-Телефон: +998908303016
+Телефон: +998998303016
 Telegram: @R_Mehriddinovna
 Компания: Mis Metal Plast MChJ
 Адрес: Тошкент ш., Нилуфар кучаси, 1Г"""
